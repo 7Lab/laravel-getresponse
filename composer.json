@@ -1,5 +1,5 @@
 {
-  "name": "dangermark/laravel-getresponse",
+  "name": "siteonline/laravel-getresponse",
   "description": "A Laravel 5 wrapper for the GetResponse API",
   "keywords": ["laravel", "laravel5", "getresponse"],
   "license": "MIT",
@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/support": "~6.6"
+    "illuminate/support": "^6.0"
   },
   "autoload": {
     "psr-0": {
